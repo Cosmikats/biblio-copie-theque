@@ -1,6 +1,4 @@
----
-tags: biblio-copie-theque
----
+###### tags: biblio-copie-theque
 
 # Test markdown T1
 ## Test markdown T2
