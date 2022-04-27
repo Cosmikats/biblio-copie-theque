@@ -1,4 +1,7 @@
-###### tags: `accueil`, `a-propos`
+---
+title: À propos
+tags: accueil, fr
+---
 
 Ici un texte introductif : l'association, Copy This Book, Nos intentions, Technique : aggrégation d'infos provenant de plusieurs plate-formes, L'invitation à contribuer
 
