@@ -1,3 +1,6 @@
-###### tags: `biblio-copie-theque` `introduction`
+---
+title: "1. Résumé"
+tags: chapitre, 1.
+---
 
-Ceci est un bref résumé du chapitre Introduction
+Voici le nouveau texte.
