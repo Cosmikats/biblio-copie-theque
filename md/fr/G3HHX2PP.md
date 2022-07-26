@@ -1,3 +1,6 @@
-###### tags: `biblio-copie-theque` `copyright-basics`
+---
+title: "2.1 Résumé"
+tags: chapitre, 2.1
+---
 
-Ceci est un bref résumé du chapitre 2.1
+Voici le nouveau texte.
